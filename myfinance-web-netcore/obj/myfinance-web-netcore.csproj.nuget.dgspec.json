@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
+    "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
+    "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectUniqueName": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectPath": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "packagesPath": "C:\\Users\\Gabriella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
+        "outputPath": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriella\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

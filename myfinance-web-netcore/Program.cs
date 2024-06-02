@@ -1,7 +1,12 @@
+using myfinance_web_netcore.C_Infrastructure;
+using myfinance_web_netcore.Mappers;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<MyFinanceDbContext>();
+builder.Services.AddAutoMapper(typeof(PlanoContaMap));
 
 var app = builder.Build();
 
