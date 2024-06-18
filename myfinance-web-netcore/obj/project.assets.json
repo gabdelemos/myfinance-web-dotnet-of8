@@ -2560,11 +2560,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
       "projectName": "myfinance-web-netcore",
-      "projectPath": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+      "projectPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
       "packagesPath": "C:\\Users\\Gabriella\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
+      "outputPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriella\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2628,7 +2628,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

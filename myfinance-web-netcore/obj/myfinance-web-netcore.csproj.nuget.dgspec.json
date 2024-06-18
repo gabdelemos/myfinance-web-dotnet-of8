@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
+    "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
+    "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "packagesPath": "C:\\Users\\Gabriella\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gabriella\\Documents\\PUC\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
+        "outputPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriella\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
