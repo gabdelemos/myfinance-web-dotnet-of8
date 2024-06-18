@@ -1,4 +1,4 @@
-using myfinance_web_netcore.C_Infrastructure;
+using myfinance_web_netcore.Infrastructure;
 using myfinance_web_netcore.Mappers;
 
 var builder = WebApplication.CreateBuilder(args);

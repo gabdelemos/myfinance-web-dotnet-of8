@@ -1,7 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using myfinance_web_netcore.B_Models;
-using myfinance_web_netcore.C_Infrastructure;
+using myfinance_web_netcore.Models;
+using myfinance_web_netcore.Infrastructure;
 using myfinance_web_netcore.Domain;
 namespace myfinance_web_netcore.Controllers;
 

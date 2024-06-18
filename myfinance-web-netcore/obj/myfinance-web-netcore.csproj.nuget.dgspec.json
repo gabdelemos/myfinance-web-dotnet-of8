@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
+    "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
+    "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectUniqueName": "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "projectName": "myfinance-web-netcore",
-        "projectPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+        "projectPath": "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
         "packagesPath": "C:\\Users\\Gabriella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
+        "outputPath": "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriella\\AppData\\Roaming\\NuGet\\NuGet.Config"

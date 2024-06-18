@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using myfinance_web_netcore.Domain;
 
-namespace myfinance_web_netcore.C_Infrastructure
+namespace myfinance_web_netcore.Infrastructure
 {
     public class MyFinanceDbContext : DbContext
     {

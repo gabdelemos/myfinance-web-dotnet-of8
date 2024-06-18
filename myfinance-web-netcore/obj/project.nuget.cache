@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlGwg6tSSV6dYZi2APun2M+hpcH+xsugo+ZuD3Xf/QQfsVqCAAumC8HJiTwrSAqK+GXwUBYhvGuDz+z4qXt5cg==",
+  "dgSpecHash": "mg1kVuZX3mrdJFWT0d4CWFXwuZXp+dnHnP07OwU7PXf0AeSQIrdOlaAHE1pHbDlE0mhLM5wx0S+SP8z9Yg5Jhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
+  "projectFilePath": "c:\\Users\\Gabriella\\Documents\\PUC\\ENG_SOFTWARE\\PRAOL\\myfinance-web\\myfinance-web-netcore\\myfinance-web-netcore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriella\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Gabriella\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
