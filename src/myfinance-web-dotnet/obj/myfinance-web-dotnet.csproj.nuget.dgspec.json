@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj": {}
+    "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\src\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj": {
+    "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\src\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\src\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj",
         "projectName": "myfinance-web-dotnet",
-        "projectPath": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\myfinance-web-dotnet\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj",
+        "projectPath": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\src\\myfinance-web-dotnet\\myfinance-web-dotnet.csproj",
         "packagesPath": "C:\\Users\\Gabriella\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\myfinance-web-dotnet\\myfinance-web-dotnet\\obj\\",
+        "outputPath": "C:\\Users\\Gabriella\\Documents\\puc\\PRAOL\\github\\myfinance-web-dotnet-of8\\src\\myfinance-web-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriella\\AppData\\Roaming\\NuGet\\NuGet.Config"
