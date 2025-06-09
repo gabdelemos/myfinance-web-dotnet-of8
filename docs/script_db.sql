@@ -1,26 +1,20 @@
-create database myfinance
-go
+create database myfinance; 
 
-use myfinance 
-go
+use myfinance; 
 
-create table PlanoConta 
-(
-	id int not null identity(1,1),
-	descricao varchar(50) not null,
+create table planoconta (
+	id int identity(1,1) not null,
+	nome varchar(50) not null,
 	tipo char(1) not null,
 	primary key (id)
 );
-go
 
-create table Transacao
-(
-	id int not null identity(1,1),
-	historico varchar(50) null,
-	data datetime not null,
+create table transacao(
+	id int identity(1,1) not null,
+	historico varchar(100) null,
+	data datetime null,
 	valor decimal(9,2) not null,
-	planocontaid int not null,
+	plano_conta_id int not null,
 	primary key (id),
-	foreign key (planocontaid) references PlanoConta(id)
+	foreign key (plano_conta_id) references planoconta(id)
 );
-go
