@@ -42,6 +42,7 @@ namespace myfinance_web_dotnet.Services
                 _banco.PlanoConta.Attach(registro);
                 _banco.Entry(registro).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
             }
+            _banco.SaveChanges();
         }
     }   
 }
