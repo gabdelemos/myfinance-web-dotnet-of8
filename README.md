@@ -82,7 +82,7 @@ O projeto segue a arquitetura **MVC (Model-View-Controller)** e inclui:
 5. **Acesse no navegador:**
 
    ```
-   http://localhost:5000
+   http://localhost:5039
    ```
 
 ---
