@@ -9,18 +9,20 @@ namespace myfinance_web_dotnet.Controllers;
 public class PlanoContaController : Controller
 {
     private readonly ILogger<PlanoContaController> _logger;
-    private readonly iPlanoContaService _PlanoContaService;
+    private readonly iRepository<PlanoConta> _PlanoContaRepository;
 
-    public PlanoContaController(ILogger<PlanoContaController> logger, iPlanoContaService PlanoContaService)
+    public PlanoContaController(
+        ILogger<PlanoContaController> logger,
+        iRepository<PlanoConta> PlanoContaService)
     {
         _logger = logger;
-        _PlanoContaService = PlanoContaService;
+        _PlanoContaRepository = PlanoContaService;
     }
 
     [Route("Index")]
     public IActionResult Index()
     {
-        ViewBag.Lista = _PlanoContaService.ListarRegistros();
+        ViewBag.Lista = _PlanoContaRepository.ListarRegistros();
         return View();
     }
 
@@ -33,7 +35,7 @@ public class PlanoContaController : Controller
     {
         if (id != null && !ModelState.IsValid) //Carregar o registro em tela
         {
-            var registro = _PlanoContaService.RetornarRegistro((int)id);
+            var registro = _PlanoContaRepository.RetornarRegistro((int)id);
 
             var planoContaModel = new PlanoContaModel()
             {
@@ -53,7 +55,7 @@ public class PlanoContaController : Controller
                 Tipo = model.Tipo
             };
 
-            _PlanoContaService.Salvar(planoConta);
+            _PlanoContaRepository.Salvar(planoConta);
 
             return RedirectToAction("Index");
         }
@@ -67,7 +69,7 @@ public class PlanoContaController : Controller
     [Route("Excluir/{id}")]
     public IActionResult Excluir(int id)
     {
-        _PlanoContaService.Excluir(id);
+        _PlanoContaRepository.Excluir(id);
         return RedirectToAction("Index");
     }
 }
